@@ -70,11 +70,15 @@
         height: fit-content;
         margin-bottom: 2rem;
     }
-
+    #about{
+       margin-top: 30px;
+    }
     .about-containers,.contact-info-upper-container,.btn-container{
         flex-wrap: wrap;
     }
-
+    .about-details-container{
+        margin-top: 30px;
+    }
     .contact-info-container{
         margin: 0;
     }
