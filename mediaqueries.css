@@ -74,6 +74,9 @@
     .about-containers,.contact-info-upper-container,.btn-container{
         flex-wrap: wrap;
     }
+    .about-details-container{
+        margin: 2px;
+    }
 
     .contact-info-container{
         margin: 0;
