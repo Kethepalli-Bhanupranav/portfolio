@@ -59,7 +59,7 @@
 
     #profile{
         height: 83vh;
-        margin-bottom: 1;
+        margin-bottom: 5;
     }
 
     article{
@@ -77,8 +77,9 @@
         flex-wrap: wrap;
     }
     .about-details-container{
-        margin-top: 30px;
+        margin: 30px;
     }
+
     .contact-info-container{
         margin: 0;
     }
